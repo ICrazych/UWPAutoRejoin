@@ -10,10 +10,11 @@ Also it works only for one roblox instance
 - 1 - Install [NodeJS](https://nodejs.org/dist/v18.18.0/node-v18.18.0-x64.msi)
 - 2 - Download source and open **installDependencies.bat** file
 - 3 - Now modify **restart.cmd** file, change it to your private server 
-- 4 - And Finally, run **robloxRestarter.cmd**. (Close your roblox before)
+- 4 - Enable Auto Inject in Fluxus and put script into your autoexec folder (Close your roblox and restart fluxus)
+- 5 - And Finally, run **robloxRestarter.cmd**. (Close your roblox before)
 
 
-## Step 5: Enable Auto Inject in Fluxus and put this script into your autoexec folder
+## Script that needed for Step 4 (Do it before Step 5)
 
 ```lua
 if not game:IsLoaded() then game.Loaded:Wait() end
