@@ -1,0 +1,1 @@
+start "" "roblox://placeID=0000000&linkCode=000000"
