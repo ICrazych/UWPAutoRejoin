@@ -2,7 +2,8 @@
 # Roblox UWP Auto Rejoin
 
 Source code is shit, but it works and i don't care
-Also it works only for one roblox instance
+
+Also it works only for one roblox instance (and kick detector don't work)
 
 
 ## Steps 1-4:
