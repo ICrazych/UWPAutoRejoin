@@ -1,4 +1,3 @@
-
 # Roblox UWP Auto Rejoin
 
 Source code is shit, but it works and i don't care
@@ -38,3 +37,4 @@ task.spawn(function()
 end)
 ```
 
+@icrazych2.0_58780 and @icrazych
